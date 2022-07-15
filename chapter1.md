@@ -1,6 +1,6 @@
 ---
-title: 'Template Chapter 1'
-description: 'This is a template chapter.'
+title: Template Chapter 1
+description: This is a template chapter.
 ---
 
 ## Ex 1.1
@@ -10,7 +10,8 @@ type: NormalExercise
 key: 6671484c15
 lang: sql
 xp: 100
-skills: 1
+skills:
+  - 1
 ```
 
 Do some data science.
